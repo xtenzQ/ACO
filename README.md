@@ -4,7 +4,12 @@
 
 Assignment repository for AI course at [Inha University](https://eng.inha.ac.kr/)
 
-**Problem choice:** metaheuristic algorithm "Ant colony optimization"
+**Problem choice:** "Ant colony optimization for the travelling salesman problem"
+
+## Contributors
+
+- [Artem POPOV](https://github.com/aptem336)
+- [Nikita RUSETSKII](https://github.com/xtenzQ)
 
 ## Demo
 
