@@ -8,8 +8,8 @@ Assignment repository for AI course at [Inha University](https://eng.inha.ac.kr/
 
 ## Contributors
 
-- [Artem POPOV](https://github.com/aptem336)
-- [Nikita RUSETSKII](https://github.com/xtenzQ)
+- [Artem POPOV](https://github.com/aptem336) (M.S. degree student at INRTU)
+- [Nikita RUSETSKII](https://github.com/xtenzQ) (M.S. degree student at INRTU)
 
 ## Demo
 
